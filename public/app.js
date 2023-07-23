@@ -207,7 +207,7 @@ leave_meetingBtn.addEventListener('click', (e) => {
       // )
 
 
-      window.location.href='https://meeteasy.netlify.app/landing.html'
+      window.location.href = 'https://petbuddy.netlify.app/userdashbord'
 
     }
   })
